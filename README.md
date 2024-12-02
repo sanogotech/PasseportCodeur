@@ -1,3 +1,128 @@
+# Passeport Codeur
+
+Voici une liste par technologie avec des descriptions des meilleurs sites pour apprendre, tout en affichant les URLs en clair :  
+
+---
+
+### **Python**  
+1. **GeeksforGeeks - Python Programming**  
+   Ressource complète avec tutoriels pour tous niveaux, exercices pratiques et concepts avancés.  
+   URL : https://www.geeksforgeeks.org/python-programming-language-tutorial/  
+
+2. **Real Python**  
+   Idéal pour les débutants et les développeurs avancés, avec des articles détaillés et des projets pratiques.  
+   URL : https://realpython.com/  
+
+3. **Python.org Documentation**  
+   Tutoriel officiel Python avec des explications sur les bases et les modules standards.  
+   URL : https://docs.python.org/3/tutorial/  
+
+---
+
+### **C et IoT**  
+1. **Wokwi - IoT Projects**  
+   Simulateur en ligne permettant d’apprendre à programmer en C pour des projets Arduino et IoT.  
+   URL : https://wokwi.com/projects/328451800839488084  
+
+2. **Embedded.com**  
+   Ressource technique pour apprendre la programmation en C et explorer des applications IoT.  
+   URL : https://www.embedded.com/  
+
+3. **Circuit Digest**  
+   Tutoriels pratiques sur les microcontrôleurs, l’IoT et la programmation en C.  
+   URL : https://circuitdigest.com/  
+
+---
+
+### **Java**  
+1. **GeeksforGeeks - Java Programming**  
+   Tutoriels complets sur les concepts de base et avancés en Java.  
+   URL : https://www.geeksforgeeks.org/java/  
+
+2. **JavaTPoint**  
+   Propose des explications détaillées, des tests interactifs et des exercices pour apprendre Java.  
+   URL : https://www.javatpoint.com/java-tutorial  
+
+3. **Oracle - Java Tutorials**  
+   Guide officiel de Java, idéal pour comprendre les fonctionnalités et les concepts clés.  
+   URL : https://docs.oracle.com/javase/tutorial/  
+
+---
+
+### **HTML, CSS, JavaScript**  
+1. **W3Schools**  
+   Ressource incontournable pour les bases de HTML, CSS et JavaScript.  
+   URL : https://www.w3schools.com/  
+
+2. **MDN Web Docs**  
+   Documentation officielle de Mozilla avec des explications approfondies et des exemples.  
+   URL : https://developer.mozilla.org/  
+
+3. **freeCodeCamp**  
+   Propose des exercices interactifs et des projets pratiques pour apprendre le développement web.  
+   URL : https://www.freecodecamp.org/  
+
+---
+
+### **SQL et prise en main de bases de données**  
+1. **SQLZoo**  
+   Cours interactifs pour apprendre SQL pas à pas avec des exercices pratiques.  
+   URL : https://sqlzoo.net/  
+
+2. **W3Schools - SQL**  
+   Ressource simple pour apprendre les commandes SQL de base.  
+   URL : https://www.w3schools.com/sql/  
+
+3. **Mode Analytics SQL Tutorial**  
+   Tutoriels pour apprendre à écrire des requêtes SQL avancées et optimiser vos bases de données.  
+   URL : https://mode.com/sql-tutorial/  
+
+---
+
+### **XAMPP**  
+1. **Apache Friends - XAMPP**  
+   Site officiel pour télécharger XAMPP et accéder aux guides de démarrage.  
+   URL : https://www.apachefriends.org/  
+
+2. **GeeksforGeeks - XAMPP Installation Tutorial**  
+   Guide étape par étape pour configurer XAMPP et gérer les bases de données MySQL.  
+   URL : https://www.geeksforgeeks.org/xampp-server-and-how-to-install-xampp/  
+
+3. **TutorialsPoint - XAMPP**  
+   Documentation claire pour comprendre comment configurer un environnement local avec XAMPP.  
+   URL : https://www.tutorialspoint.com/xampp/index.htm  
+
+---
+
+### **Linux et Commandes Linux**  
+Pour apprendre les commandes Linux et maîtriser l'administration système, voici une sélection des meilleurs sites :  
+
+1. **LinuxCommand.org**  
+   Une introduction claire et détaillée aux bases des commandes Linux, avec des exemples pratiques.  
+   URL : http://linuxcommand.org/  
+
+2. **GeeksforGeeks - Linux Commands**  
+   Explications détaillées des commandes essentielles et avancées pour les développeurs et les administrateurs.  
+   URL : https://www.geeksforgeeks.org/linux-commands/  
+
+3. **The Linux Documentation Project (TLDP)**  
+   Références complètes pour comprendre le fonctionnement des commandes et de l'administration système Linux.  
+   URL : http://tldp.org/  
+
+4. **TutorialsPoint - Linux Basics**  
+   Ressource idéale pour les débutants, couvrant les commandes de base et leur utilisation.  
+   URL : https://www.tutorialspoint.com/unix_commands/index.htm  
+
+5. **OverTheWire - Bandit**  
+   Une série de défis interactifs pour apprendre les commandes Linux dans un contexte ludique.  
+   URL : https://overthewire.org/wargames/bandit/  
+
+---
+
+Si vous souhaitez approfondir un sujet ou créer un plan d'apprentissage structuré pour l'une de ces technologies, je suis à votre disposition !
+
+-------------------------------
+
 # kidprogrammingstarter
 Programming Starter for Kids
 
