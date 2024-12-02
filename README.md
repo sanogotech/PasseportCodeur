@@ -119,7 +119,32 @@ Pour apprendre les commandes Linux et maîtriser l'administration système, voic
 
 ---
 
-Si vous souhaitez approfondir un sujet ou créer un plan d'apprentissage structuré pour l'une de ces technologies, je suis à votre disposition !
+### **WordPress**  
+Pour apprendre à utiliser et personnaliser WordPress pour la création de sites web, voici les meilleurs sites :  
+
+1. **WordPress.org**  
+   Documentation officielle pour apprendre à installer, configurer et utiliser WordPress, avec des guides pour les développeurs et utilisateurs débutants.  
+   URL : https://wordpress.org/support/  
+
+2. **WPKube**  
+   Ressource complète avec des tutoriels sur la personnalisation, les thèmes, les plugins, et des astuces avancées pour WordPress.  
+   URL : https://www.wpkube.com/  
+
+3. **WPBeginner**  
+   Idéal pour les débutants, ce site propose des guides étape par étape, des astuces, et des recommandations d’outils pour optimiser un site WordPress.  
+   URL : https://www.wpbeginner.com/  
+
+4. **Kinsta Blog - WordPress Tutorials**  
+   Articles bien structurés pour apprendre les bases et des techniques avancées pour optimiser les performances et la sécurité de WordPress.  
+   URL : https://kinsta.com/blog/wordpress-tutorials/  
+
+5. **Smashing Magazine - WordPress**  
+   Guide pour les développeurs souhaitant approfondir leurs connaissances sur la création de thèmes et plugins.  
+   URL : https://www.smashingmagazine.com/category/wordpress/  
+
+---
+
+Si vous avez besoin d’aide pour concevoir un site WordPress ou des ressources spécifiques, n’hésitez pas à demander !
 
 -------------------------------
 
