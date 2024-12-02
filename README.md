@@ -3,13 +3,13 @@
 ## **Introduction**  
 Le *Passeport Codeur* est un programme intensif de trois jours conçu pour offrir une initiation complète aux principales technologies et outils de développement informatique. Destiné aux débutants, amateurs et développeurs souhaitant élargir leurs compétences, ce programme combine théorie, démonstrations pratiques et exploration des meilleures ressources en ligne pour devenir autonome dans l’apprentissage et l'utilisation des technologies sélectionnées.
 
-Le *Passeport Codeur* permet aux participants de découvrir les bases indispensables pour s’initier à la programmation, au développement web, à l’administration système, à la gestion de bases de données, et à d’autres technologies incontournables comme WordPress et Linux.
+Le *Passeport Codeur* permet aux participants de découvrir les bases indispensables pour s’initier à la programmation, au développement web, à l’administration système, à la gestion de bases de données, ainsi qu’à des concepts fondamentaux comme les algorithmes et les systèmes de gestion de contenu.
 
 ---
 
 ## **Objectifs**  
 1. **Familiarisation avec les outils modernes de développement** :  
-   Explorer les technologies clés telles que Python, Java, C, HTML/CSS/JavaScript, Linux, SQL, XAMPP et WordPress.  
+   Explorer les technologies clés telles que Python, Java, C, HTML/CSS/JavaScript, Linux, SQL, XAMPP, WordPress, et les concepts d’algorithmes.  
 
 2. **Apprentissage autonome** :  
    Fournir des ressources fiables et complètes pour permettre aux participants de continuer à apprendre et pratiquer après la formation.  
@@ -17,16 +17,46 @@ Le *Passeport Codeur* permet aux participants de découvrir les bases indispensa
 3. **Mise en pratique** :  
    À travers des démonstrations et des exercices pratiques, les participants acquièrent des compétences directement applicables dans leurs projets personnels ou professionnels.  
 
-4. **Polyvalence technologique** :  
+4. **Compréhension des algorithmes** :  
+   Apprendre les bases des algorithmes pour résoudre des problèmes de manière efficace, notamment les structures de données, la logique conditionnelle, et les itérations.  
+
+5. **Polyvalence technologique** :  
    Offrir une vue d’ensemble des langages et outils pour mieux comprendre les différentes facettes du développement logiciel, de la gestion de contenu à la programmation embarquée.  
 
-5. **Création d’une base solide** :  
-   Initier les participants aux concepts fondamentaux pour aborder sereinement des projets plus complexes à l’avenir.
+6. **Création d’une base solide** :  
+   Initier les participants aux concepts fondamentaux pour aborder sereinement des projets plus complexes à l’avenir.  
 
 ---
 
-Le contenu suivant met en avant les meilleures ressources disponibles en ligne pour apprendre les technologies couvertes lors du *Passeport Codeur*. 
+## **Liste des technologies et ressources avec descriptions**  
 
+### **Algorithmes et structures de données**  
+
+1. **AlgoBox**  
+   Outil pédagogique simple et intuitif pour s’initier à la logique algorithmique et à la programmation. Idéal pour les débutants, AlgoBox permet de concevoir, tester et visualiser des algorithmes de manière interactive.  
+   URL : https://www.xm1math.net/algobox/  
+
+2. **GeeksforGeeks - Algorithms**  
+   Une ressource complète pour apprendre les concepts d'algorithmes, des bases aux techniques avancées.  
+   URL : https://www.geeksforgeeks.org/fundamentals-of-algorithms/  
+
+3. **Introduction to Algorithms (CLRS)**  
+   Le livre de référence sur les algorithmes, couvrant une grande variété de sujets avec des exemples détaillés. De nombreux tutoriels en ligne y font référence.  
+   URL : https://mitpress.mit.edu/9780262033848/introduction-to-algorithms/  
+
+4. **Khan Academy - Algorithms**  
+   Cours interactifs et clairs pour apprendre les bases des algorithmes et leur mise en œuvre.  
+   URL : https://www.khanacademy.org/computing/computer-science/algorithms  
+
+5. **VisuAlgo**  
+   Plateforme interactive pour visualiser des algorithmes et comprendre leur fonctionnement pas à pas.  
+   URL : https://visualgo.net/  
+
+6. **Coursera - Data Structures and Algorithms**  
+   Cours en ligne dispensé par des universités de renom pour maîtriser les algorithmes et structures de données.  
+   URL : https://www.coursera.org/learn/algorithms-part1  
+
+---
 ---
 ---
 
