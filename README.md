@@ -1,7 +1,33 @@
-# Passeport Codeur
+# **Passeport Codeur**  
 
-Voici une liste par technologie avec des descriptions des meilleurs sites pour apprendre, tout en affichant les URLs en clair :  
+## **Introduction**  
+Le *Passeport Codeur* est un programme intensif de trois jours conçu pour offrir une initiation complète aux principales technologies et outils de développement informatique. Destiné aux débutants, amateurs et développeurs souhaitant élargir leurs compétences, ce programme combine théorie, démonstrations pratiques et exploration des meilleures ressources en ligne pour devenir autonome dans l’apprentissage et l'utilisation des technologies sélectionnées.
 
+Le *Passeport Codeur* permet aux participants de découvrir les bases indispensables pour s’initier à la programmation, au développement web, à l’administration système, à la gestion de bases de données, et à d’autres technologies incontournables comme WordPress et Linux.
+
+---
+
+## **Objectifs**  
+1. **Familiarisation avec les outils modernes de développement** :  
+   Explorer les technologies clés telles que Python, Java, C, HTML/CSS/JavaScript, Linux, SQL, XAMPP et WordPress.  
+
+2. **Apprentissage autonome** :  
+   Fournir des ressources fiables et complètes pour permettre aux participants de continuer à apprendre et pratiquer après la formation.  
+
+3. **Mise en pratique** :  
+   À travers des démonstrations et des exercices pratiques, les participants acquièrent des compétences directement applicables dans leurs projets personnels ou professionnels.  
+
+4. **Polyvalence technologique** :  
+   Offrir une vue d’ensemble des langages et outils pour mieux comprendre les différentes facettes du développement logiciel, de la gestion de contenu à la programmation embarquée.  
+
+5. **Création d’une base solide** :  
+   Initier les participants aux concepts fondamentaux pour aborder sereinement des projets plus complexes à l’avenir.
+
+---
+
+Le contenu suivant met en avant les meilleures ressources disponibles en ligne pour apprendre les technologies couvertes lors du *Passeport Codeur*. 
+
+---
 ---
 
 ### **Python**  
@@ -17,7 +43,36 @@ Voici une liste par technologie avec des descriptions des meilleurs sites pour a
    Tutoriel officiel Python avec des explications sur les bases et les modules standards.  
    URL : https://docs.python.org/3/tutorial/  
 
+---------------------
+
+### **C**  
+Pour apprendre la programmation en C, voici les meilleurs sites qui couvrent les bases, les concepts avancés, et les applications pratiques :  
+
+1. **GeeksforGeeks - C Programming**  
+   Une ressource complète pour apprendre les bases, les concepts avancés et les exercices pratiques en langage C.  
+   URL : https://www.geeksforgeeks.org/c-programming-language/  
+
+2. **Learn-C.org**  
+   Un tutoriel interactif pour apprendre le C avec des exemples pratiques directement dans le navigateur.  
+   URL : https://www.learn-c.org/  
+
+3. **TutorialsPoint - C Programming**  
+   Guide détaillé couvrant les bases et les concepts avancés du langage C, avec des exercices pour s'entraîner.  
+   URL : https://www.tutorialspoint.com/cprogramming/index.htm  
+
+4. **Programiz - Learn C Programming**  
+   Idéal pour les débutants, ce site propose des explications claires et des exemples simples à comprendre.  
+   URL : https://www.programiz.com/c-programming  
+
+5. **The C Programming Language by Dennis Ritchie**  
+   Bien qu'il ne s'agisse pas d'un site web, ce livre est souvent mentionné comme la meilleure ressource pour apprendre C. Cependant, de nombreux tutoriels basés sur ce livre sont disponibles en ligne.  
+   URL : https://en.wikipedia.org/wiki/The_C_Programming_Language  
+
 ---
+
+Si vous souhaitez un plan structuré pour apprendre le C ou combiner avec des projets pratiques, je peux vous aider à le concevoir !
+
+-------------
 
 ### **C et IoT**  
 1. **Wokwi - IoT Projects**  
@@ -140,11 +195,7 @@ Pour apprendre à utiliser et personnaliser WordPress pour la création de sites
 
 5. **Smashing Magazine - WordPress**  
    Guide pour les développeurs souhaitant approfondir leurs connaissances sur la création de thèmes et plugins.  
-   URL : https://www.smashingmagazine.com/category/wordpress/  
-
----
-
-Si vous avez besoin d’aide pour concevoir un site WordPress ou des ressources spécifiques, n’hésitez pas à demander !
+   URL : https://www.smashingmagazine.com/category/wordpress/ 
 
 -------------------------------
 
