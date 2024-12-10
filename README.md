@@ -156,9 +156,10 @@ Si vous souhaitez un plan structuré pour apprendre le C ou combiner avec des pr
 
 2. **W3Schools - SQL**  
    Ressource simple pour apprendre les commandes SQL de base.  
-   URL : https://www.w3schools.com/sql/  
+   URL : https://www.w3schools.com/sql/
+   * https://www.w3schools.com/sql/sql_intro.asp
 
-3. **Mode Analytics SQL Tutorial**  
+4. **Mode Analytics SQL Tutorial**  
    Tutoriels pour apprendre à écrire des requêtes SQL avancées et optimiser vos bases de données.  
    URL : https://mode.com/sql-tutorial/  
 
